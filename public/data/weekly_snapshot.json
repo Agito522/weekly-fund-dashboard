@@ -1,0 +1,530 @@
+{
+  "as_of_bar": "2026-10-09",
+  "nav": 364096.61,
+  "cash": 1124.0,
+  "heat_pct": 3.6923,
+  "broker_totals": {
+    "IB_mv": 274289.84,
+    "HSBC_mv": 88682.77,
+    "IB_cash": 1124.0,
+    "HSBC_cash": 0.0,
+    "IB_total": 275413.84,
+    "HSBC_total": 88682.77
+  },
+  "nav_log_raw_header": [
+    "\u65e5\u671f",
+    "\u7d44\u5408\u50f9\u503c (USD)",
+    "\u6bcf\u65e5\u8b8a\u5316 (USD)",
+    "\u6bcf\u65e5\u8b8a\u5316 %",
+    "\u6536\u5e02\u65e5"
+  ],
+  "nav_log_rows": [
+    {
+      "\u65e5\u671f": "2026-09-30",
+      "\u7d44\u5408\u50f9\u503c (USD)": 349194.56,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-09-29"
+    },
+    {
+      "\u65e5\u671f": "2026-10-01",
+      "\u7d44\u5408\u50f9\u503c (USD)": 366506.5,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-09-30"
+    },
+    {
+      "\u65e5\u671f": "2026-10-02",
+      "\u7d44\u5408\u50f9\u503c (USD)": 357258.4,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-10-01"
+    },
+    {
+      "\u65e5\u671f": "2026-10-03",
+      "\u7d44\u5408\u50f9\u503c (USD)": 362572.72,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-10-02"
+    },
+    {
+      "\u65e5\u671f": "2026-10-06",
+      "\u7d44\u5408\u50f9\u503c (USD)": 367515.54,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-10-05"
+    },
+    {
+      "\u65e5\u671f": "2026-10-07",
+      "\u7d44\u5408\u50f9\u503c (USD)": 365366.42,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-10-06"
+    },
+    {
+      "\u65e5\u671f": "2026-10-08",
+      "\u7d44\u5408\u50f9\u503c (USD)": 360440.48,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-10-07"
+    },
+    {
+      "\u65e5\u671f": "2026-10-10",
+      "\u7d44\u5408\u50f9\u503c (USD)": 364096.61,
+      "\u6bcf\u65e5\u8b8a\u5316 (USD)": null,
+      "\u6bcf\u65e5\u8b8a\u5316 %": null,
+      "\u6536\u5e02\u65e5": "2026-10-09"
+    }
+  ],
+  "holdings_count": 35,
+  "holdings": [
+    {
+      "ticker": "AMZN",
+      "shares": 15.0,
+      "cost": 263.58,
+      "price": 262.43,
+      "mv": 3936.45,
+      "broker": "HSBC",
+      "stop": 259.0956,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": -0.44
+    },
+    {
+      "ticker": "ARKG",
+      "shares": 100.0,
+      "cost": 53.85,
+      "price": 51.3,
+      "mv": 5130.0,
+      "broker": "IB",
+      "stop": 47.9562,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": -4.74
+    },
+    {
+      "ticker": "BE",
+      "shares": 20.0,
+      "cost": 269.91,
+      "price": 280.5,
+      "mv": 5610.0,
+      "broker": "IB",
+      "stop": 271.28,
+      "status": "Trim",
+      "theme": null,
+      "pnl_pct": 3.92
+    },
+    {
+      "ticker": "BMNR",
+      "shares": 700.0,
+      "cost": 24.93,
+      "price": 24.03,
+      "mv": 16821.0,
+      "broker": "IB",
+      "stop": 26.21,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -3.61
+    },
+    {
+      "ticker": "CBRS",
+      "shares": 20.0,
+      "cost": 285.78,
+      "price": 164.17,
+      "mv": 3283.4,
+      "broker": "IB",
+      "stop": 198.75,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -42.55
+    },
+    {
+      "ticker": "COIN",
+      "shares": 20.0,
+      "cost": 203.52,
+      "price": 179.39,
+      "mv": 3587.8,
+      "broker": "IB",
+      "stop": 189.09,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -11.86
+    },
+    {
+      "ticker": "CRCL",
+      "shares": 174.0,
+      "cost": 93.78,
+      "price": 84.51,
+      "mv": 14704.74,
+      "broker": "IB",
+      "stop": 90.38,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -9.88
+    },
+    {
+      "ticker": "DELL",
+      "shares": 10.0,
+      "cost": 534.33,
+      "price": 586.06,
+      "mv": 5860.6,
+      "broker": "IB",
+      "stop": 525.1455,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": 9.68
+    },
+    {
+      "ticker": "FORM",
+      "shares": 50.0,
+      "cost": 145.41,
+      "price": 139.67,
+      "mv": 6983.5,
+      "broker": "IB",
+      "stop": 122.859,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": -3.95
+    },
+    {
+      "ticker": "GLDM",
+      "shares": 200.0,
+      "cost": 87.73,
+      "price": 82.99,
+      "mv": 16598.0,
+      "broker": "HSBC",
+      "stop": 86.15,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -5.4
+    },
+    {
+      "ticker": "GDX",
+      "shares": 150.0,
+      "cost": 98.4,
+      "price": 89.28,
+      "mv": 13392.0,
+      "broker": "IB",
+      "stop": 96.29,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -9.27
+    },
+    {
+      "ticker": "HOOD",
+      "shares": 200.0,
+      "cost": 118.2,
+      "price": 109.02,
+      "mv": 21804.0,
+      "broker": "IB",
+      "stop": 116.93,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -7.77
+    },
+    {
+      "ticker": "IBB",
+      "shares": 100.0,
+      "cost": 199.57,
+      "price": 206.49,
+      "mv": 20649.0,
+      "broker": "HSBC",
+      "stop": 207.55,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": 3.47
+    },
+    {
+      "ticker": "IGV",
+      "shares": 100.0,
+      "cost": 102.99,
+      "price": 112.67,
+      "mv": 11267.0,
+      "broker": "HSBC",
+      "stop": 105.51,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": 9.4
+    },
+    {
+      "ticker": "MCD",
+      "shares": 20.0,
+      "cost": 239.595,
+      "price": 235.23,
+      "mv": 4704.6,
+      "broker": "HSBC",
+      "stop": 252.32,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -1.82
+    },
+    {
+      "ticker": "MRNA",
+      "shares": 50.0,
+      "cost": 197.92,
+      "price": 225.0,
+      "mv": 11250.0,
+      "broker": "IB",
+      "stop": 181.4472,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": 13.68
+    },
+    {
+      "ticker": "MRVL",
+      "shares": 40.0,
+      "cost": 273.25,
+      "price": 275.28,
+      "mv": 11011.2,
+      "broker": "IB",
+      "stop": 236.493,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": 0.74
+    },
+    {
+      "ticker": "MSTR",
+      "shares": 80.0,
+      "cost": 142.02,
+      "price": 154.34,
+      "mv": 12347.2,
+      "broker": "IB",
+      "stop": 150.4998,
+      "status": "Trim",
+      "theme": null,
+      "pnl_pct": 8.67
+    },
+    {
+      "ticker": "MU",
+      "shares": 20.0,
+      "cost": 1037.76,
+      "price": 1029.0,
+      "mv": 20580.0,
+      "broker": "IB",
+      "stop": 1021.68,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": -0.84
+    },
+    {
+      "ticker": "PLTR",
+      "shares": 70.0,
+      "cost": 177.59,
+      "price": 209.05,
+      "mv": 14633.5,
+      "broker": "IB",
+      "stop": 183.4239,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": 17.71
+    },
+    {
+      "ticker": "PURR",
+      "shares": 500.0,
+      "cost": 12.05,
+      "price": 11.11,
+      "mv": 5555.0,
+      "broker": "IB",
+      "stop": 12.98,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -7.8
+    },
+    {
+      "ticker": "QQQ",
+      "shares": 15.0,
+      "cost": 742.3,
+      "price": 751.27,
+      "mv": 11269.05,
+      "broker": "HSBC",
+      "stop": 726.1428,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": 1.21
+    },
+    {
+      "ticker": "SLV",
+      "shares": 200.0,
+      "cost": 59.71,
+      "price": 54.78,
+      "mv": 10956.0,
+      "broker": "HSBC",
+      "stop": 58.89,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -8.26
+    },
+    {
+      "ticker": "SMTC",
+      "shares": 50.0,
+      "cost": 184.93,
+      "price": 187.3,
+      "mv": 9365.0,
+      "broker": "IB",
+      "stop": 153.5926,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": 1.28
+    },
+    {
+      "ticker": "SNDK",
+      "shares": 5.0,
+      "cost": 1695.28,
+      "price": 1581.82,
+      "mv": 7909.1,
+      "broker": "IB",
+      "stop": 1701.07,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -6.69
+    },
+    {
+      "ticker": "SOXL",
+      "shares": 160.0,
+      "cost": 121.43,
+      "price": 139.76,
+      "mv": 22361.6,
+      "broker": "IB",
+      "stop": 152.6564,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": 15.1
+    },
+    {
+      "ticker": "SPCX",
+      "shares": 60.0,
+      "cost": 169.87,
+      "price": 162.57,
+      "mv": 9754.2,
+      "broker": "IB",
+      "stop": 148.4,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": -4.3
+    },
+    {
+      "ticker": "SSO",
+      "shares": 100.0,
+      "cost": 72.0,
+      "price": 72.12,
+      "mv": 7212.0,
+      "broker": "IB",
+      "stop": 70.4092,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": 0.17
+    },
+    {
+      "ticker": "STX",
+      "shares": 5.0,
+      "cost": 821.07,
+      "price": 783.0,
+      "mv": 3915.0,
+      "broker": "IB",
+      "stop": 861.6762,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -4.64
+    },
+    {
+      "ticker": "TEM",
+      "shares": 100.0,
+      "cost": 75.75,
+      "price": 70.93,
+      "mv": 7093.0,
+      "broker": "IB",
+      "stop": 74.0619,
+      "status": "2nd_close_below_stop",
+      "theme": null,
+      "pnl_pct": -6.36
+    },
+    {
+      "ticker": "TQQQ",
+      "shares": 150.0,
+      "cost": 77.39,
+      "price": 81.28,
+      "mv": 12192.0,
+      "broker": "IB",
+      "stop": 80.5328,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": 5.03
+    },
+    {
+      "ticker": "TSLA",
+      "shares": 40.0,
+      "cost": 427.58,
+      "price": 382.7,
+      "mv": 15308.0,
+      "broker": "IB",
+      "stop": 365.68,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": -10.5
+    },
+    {
+      "ticker": "TSLL",
+      "shares": 200.0,
+      "cost": 16.85,
+      "price": 10.4,
+      "mv": 2080.0,
+      "broker": "IB",
+      "stop": 9.83,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": -38.28
+    },
+    {
+      "ticker": "VIAV",
+      "shares": 100.0,
+      "cost": 47.06,
+      "price": 45.46,
+      "mv": 4546.0,
+      "broker": "IB",
+      "stop": 39.3154,
+      "status": "Hold",
+      "theme": null,
+      "pnl_pct": -3.4
+    },
+    {
+      "ticker": "VOO",
+      "shares": 13.0,
+      "cost": 709.31,
+      "price": 715.59,
+      "mv": 9302.67,
+      "broker": "HSBC",
+      "stop": 705.7676,
+      "status": "ema5_below_ema30",
+      "theme": null,
+      "pnl_pct": 0.89
+    }
+  ],
+  "benchmark_wow": {
+    "window": {
+      "start_bar": "2026-09-29",
+      "end_bar": "2026-10-09"
+    },
+    "harold_pct": 4.27,
+    "benchmarks": {
+      "SPY": 1.88,
+      "QQQ": 1.81,
+      "IWM": -0.03,
+      "SOXX": -1.42,
+      "BITO": -1.72,
+      "ARKK": 0.19,
+      "CIBR": 7.87
+    }
+  },
+  "scorecard_seed": {
+    "overall": "B-",
+    "dimensions": {
+      "mandate": "A-",
+      "returns_2w": "B",
+      "risk_heat": "B",
+      "stop_execution": "D+",
+      "liquidity": "D",
+      "concentration": "C",
+      "options_risk": "C-"
+    }
+  }
+}
